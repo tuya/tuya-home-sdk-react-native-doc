@@ -1,4 +1,4 @@
-#### Note: This repository is inherited from the [old Tuya Github repository](https://github.com/TuyaInc/tuyasmart_socket_android_sdk), which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this [tutorial](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url)
+#### Note: This repository is inherited from the [old Tuya Github repository](https://github.com/TuyaInc/tuyasmart-home-sdk-react-native-doc), which will be deprecated soon. Please use this repository for Tuya SDK development instead. For changing the existing remote repository URL, please check this [tutorial](https://docs.github.com/en/free-pro-team@latest/github/using-git/changing-a-remotes-url)
 
 # 涂鸦全屋智能RN SDK 接入指南 
 
